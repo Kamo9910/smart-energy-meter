@@ -49,3 +49,4 @@ EC2 Dashboard → IoT Core → Raspberry Pi → Relay → Appliance## Hardware
 ## Author
 Danny — Red Seal Millwright & AWS Certified Cloud Engineer
 Johannesburg, South Africa
+![Architecture Diagram](Af.gif)
